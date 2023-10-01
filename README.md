@@ -1,25 +1,40 @@
-# FinalCms
-This Project titled “College Management System” is designed mainly for the purpose of managing all activities like admission of Student, Performance , Add new Faculty , Staff ,Fees etc in College. 
+# College Management System
 
+The College Management System is a comprehensive web-based application designed to streamline administrative tasks in educational institutions. It's built using modern web technologies to ensure efficiency and accessibility.
 
-It is difficult to prepare the manual work to store the information  about ta student , Faculty , Staff etc.
+## Project Description
 
+The College Management System is developed to manage all activities related to college administration, such as admission of students, faculty and staff management, performance tracking, and fee collection. This project enables the college to store and manage information about students, faculty, and staff in an efficient and organized manner.
 
-So this project helps to maintain those type of information using computerized system
+## Technologies Used
 
-------------------------------
+- **Backend:** Java, Spring Boot, Maven, MySQL
+- **Frontend:** Angular, HTML, JavaScript (ES6), Bootstrap
+- **Version Control:** Git, GitHub
 
-The main objectives of this system to reduce the consumption of time during maintain the records of college management system.
+## Responsive Design
 
-In other words the objective of this system are :
+We've made sure that the College Management System is designed with responsiveness in mind. It's optimized to work seamlessly on various devices and screen sizes, ensuring accessibility for all users.
 
-              1.   Simple database design
+## Key Features
 
-              2.   Easy operation for the Operator
+- Student Management
+- Faculty and Staff Management
+- Academic Performance Tracking
+- Fee Collection
+- User-Friendly Interface
+- Data Security
 
-              3.   Faster Execution & maintain the records.
+## Demo
 
-              4.   User interface are user friendly
+Check out the [Live Demo](https://github.com/shankar212/FinalCms) to see the system in action.
 
-              5.   Secure personal data.
+## Getting Started
 
+To run the project locally, follow these steps:
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/shankar212/FinalCms.git
+   cd FinalCms
