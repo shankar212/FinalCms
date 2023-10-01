@@ -8,7 +8,7 @@ The College Management System is developed to manage all activities related to c
 
 ## Technologies Used
 
-- **Backend:** Java, Spring Boot, Maven, MySQL
+- **Backend:** Java, Spring Boot, Maven, MySQL, AngularJS
 - **Frontend:** Angular, HTML, JavaScript (ES6), Bootstrap
 - **Version Control:** Git, GitHub
 
